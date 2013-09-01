@@ -1,0 +1,10 @@
+git checkout -b new_feature_branch
+
+**do some stuff, commit some things**
+
+git push -u origin new_feature_branch
+
+to set up tracking during initial push
+
+
+
