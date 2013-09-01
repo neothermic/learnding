@@ -8,3 +8,7 @@ to set up tracking during initial push
 
 
 
+
+git merge new_branch
+
+merges new branch into current
